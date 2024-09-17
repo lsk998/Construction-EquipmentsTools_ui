@@ -1,18 +1,12 @@
+[server]
+port = 8501
+enableCORS = false
+
 [theme]
-
-# Primary accent for interactive elements
-primaryColor = '#E694FF'
-
-# Background color for the main content area
-backgroundColor = '#00172B'
-
-# Background color for sidebar and most interactive widgets
-secondaryBackgroundColor = '#0083B8'
-
-# Color used for almost all text
-textColor = '#FFFFFF'
-
-# Font family for all text in the app, except code blocks
-# Accepted values (serif | sans serif | monospace)
-# Default: "sans serif"
+primaryColor = "#FF4B4B"
+backgroundColor = "#F0F2F6"
 font = "sans serif"
+
+[logging]
+level = "info"
+
