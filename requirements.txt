@@ -5,4 +5,4 @@ streamlit==1.38.0
 sympy==1.13.1
 timm==1.0.9
 torch
-
+transformers
