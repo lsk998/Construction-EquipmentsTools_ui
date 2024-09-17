@@ -22,7 +22,7 @@ markdown-it-py==3.0.0
 mdurl==0.1.2
 mkl-service==2.4.0
 narwhals==1.8.1
-numpy==2.0.1
+numpy==2.1.1
 packaging==24.1
 pandas==2.2.2
 protobuf==5.28.1
